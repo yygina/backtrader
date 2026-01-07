@@ -3,6 +3,12 @@
 基于币安（Binance）API的数字货币回测与可视化分析平台，支持现货/永续合约USDT交易对的多时间框架技术分析，通过Backtrader实现策略回测，并基于Streamlit提供交互式可视化界面。
 ![Uploading 4e880072b918e0850cdb0683143a6b4c.png…]()
 
+![示例](img/1.png)
+![示例](img/2.png)
+![示例](img/3.png)
+![示例](img/4.png)
+
+
 ## 功能特性
 
 ### 核心功能（P0）
