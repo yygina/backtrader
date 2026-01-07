@@ -1,0 +1,18 @@
+# 核心依赖
+backtrader>=1.9.76.123
+streamlit>=1.20.0
+plotly>=5.0.0
+pandas>=1.4.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# 异步HTTP请求
+aiohttp>=3.8.0
+aiofiles>=0.8.0
+
+# 数据处理
+python-dateutil>=2.8.0
+
+# 可选：数据导出
+openpyxl>=3.0.0  # Excel导出支持
+
